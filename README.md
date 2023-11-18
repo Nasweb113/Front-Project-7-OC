@@ -27,3 +27,7 @@ npm run dev
 ```sh
 npm run build
 ```
+.env contents for testing purposes
+VITE_SERVER_ADDRESS= localhost
+VITE_SERVER_PORT = 3002
+
